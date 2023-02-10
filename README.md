@@ -16,7 +16,7 @@
 👉 <b>(UBUNTU 18 e 20)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://www.dropbox.com/s/3qrfoj3cxbubnps/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Rafa4g/jhona-1/main/ubuinst.sh)
 ```
 </br>
 
