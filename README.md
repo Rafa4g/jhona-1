@@ -5,7 +5,7 @@
 📍 Todos poderam copiar o repositório e modificar com seu próprio gosto.
 📍 Lembre-se de dar os créditos pelo menos.
 
-📱 Painel Web Free - Modificado por: @smigolvip
+📱 Painel Web TECNO - Modificado por: @smigolvip
 ```
 
 #  𓊈𒆜 PAINEL SSH WEB 𒆜𓊉
